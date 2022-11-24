@@ -90,6 +90,7 @@
             android:layout_height="20dp"
             android:layout_marginStart="88dp"
             android:layout_marginTop="35dp"
+            android:gravity="center"
             android:text="1"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
@@ -100,6 +101,7 @@
             android:layout_height="20dp"
             android:layout_marginTop="35dp"
             android:layout_marginEnd="60dp"
+            android:gravity="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -110,6 +112,7 @@
             android:layout_marginStart="150dp"
             android:layout_marginTop="25dp"
             android:layout_marginEnd="150dp"
+            android:gravity="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
